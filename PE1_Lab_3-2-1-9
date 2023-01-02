@@ -1,0 +1,5 @@
+while True:
+    secret = input("Enter a secret: ")
+    if secret == "chupacabra":
+        break
+print("You've successfully left the loop.")
